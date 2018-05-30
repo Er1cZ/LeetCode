@@ -1,2 +1,2 @@
 # LeetCode
-C implement of LeetCode, updating.
+Pure C implement of LeetCode, updating.
